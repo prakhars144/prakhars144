@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prakhar
 - 👀 I’m interested in modern C++, Python, Game dev and little bit of UI
-- 🌱 I’m currently learning Unreal Engine 5, Advance C++ and some cloud stuff
+- 🌱 I’m currently learning GoDot engine, advance C++ and some cloud stuff
 - 💞️ I’m looking to collaborate on :<
 - 📫 Mail me at prakharshukla@outlook.in
 

@@ -1,1 +1,1 @@
-Freedom likes in what you lack.
+Freedom lies in what you lack.
